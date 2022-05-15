@@ -60,3 +60,4 @@
 .zijiecdn.net
 .zjbyte.cn
 .zjcdn.com
+.zjurl.cn
