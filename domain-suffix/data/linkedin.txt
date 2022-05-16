@@ -1,0 +1,6 @@
+.licdn.cn
+.licdn.com
+.linkedin.at
+.linkedin.cn
+.linkedin.com
+.lnkd.in
