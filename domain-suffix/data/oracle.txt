@@ -1,0 +1,5 @@
+.oracle.com
+.oraclecloud.com
+.oraclefoundation.org
+.oracleimg.com
+.oracleinfinity.io
