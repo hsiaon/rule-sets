@@ -1,4 +1,17 @@
-.ggpht.com
+.2mdn.net
+.admob.com
+.adsense.com
+.adsensecustomsearchads.com
+.adsenseformobileapps.com
+.advertisercommunity.com
+.advertiserscommunity.com
+.adwords-community.com
+.adwords.com
+.adwordsexpress.com
+.app-measurement.com
+.clickserver.googleads.com
+.doubleclick.com
+.doubleclick.net
 .google-analytics.com
 .google.ad
 .google.ae
@@ -195,7 +208,9 @@
 .google.vg
 .google.vu
 .google.ws
+.googleadapis.com
 .googleadservices.com
+.googleanalytics.com
 .googleapis-cn.com
 .googleapis.cn
 .googleapis.com
@@ -207,7 +222,7 @@
 .googlecapital.com
 .googlecert.net
 .googlechinawebmaster.com
-.googlecnapps.cn @cn
+.googlecnapps.cn
 .googlecode.com
 .googlecommerce.com
 .googlecompare.co.uk
@@ -226,6 +241,7 @@
 .googlemail.com
 .googlemaps.com
 .googlemashups.com
+.googleoptimize.com
 .googlepagecreator.com
 .googlephotos.com
 .googleplay.com
@@ -238,6 +254,7 @@
 .googlesyndication.com
 .googletagmanager.com
 .googletagservices.com
+.googletraveladservices.com
 .googleusercontent.com
 .googleventures.com
 .googlevideo.com
@@ -257,3 +274,4 @@
 .gvt6.com
 .gvt7.com
 .gvt9.com
+.urchin.com
