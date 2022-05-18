@@ -1,5 +1,5 @@
-.cdninstagram.com
-.ig.me
-.igcdn.com
-.igtv.com
-.instagram.com
+cdninstagram.com
+ig.me
+igcdn.com
+igtv.com
+instagram.com

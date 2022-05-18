@@ -1,5 +1,5 @@
-.amazon-adsystem.com
-.amazonaws.com
-.amazonaws.tv
-.awsstatic.com
-.awstrust.com
+amazon-adsystem.com
+amazonaws.com
+amazonaws.tv
+awsstatic.com
+awstrust.com

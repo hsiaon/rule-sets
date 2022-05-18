@@ -1,7 +1,7 @@
-.facebook.com
-.facebook.net
-.fb.com
-.fb.me
-.fbcdn.com
-.fbcdn.net
-.fecebook.net
+facebook.com
+facebook.net
+fb.com
+fb.me
+fbcdn.com
+fbcdn.net
+fecebook.net

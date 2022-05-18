@@ -1,4 +1,4 @@
-.box.com
-.box.net
-.boxcdn.net
-.boxcloud.com
+box.com
+box.net
+boxcdn.net
+boxcloud.com
