@@ -1,3 +1,5 @@
+.1drv.com
+.1drv.ms
 .aadrm.com
 .acompli.com
 .acompli.net
@@ -55,11 +57,14 @@
 .phonefactor.net
 .powerapps.com
 .sfbassets.com
+.sfbassets.net
 .sfx.ms
 .sharepoint.com
 .sharepointonline.com
 .skype.com
+.skype.net
 .skypeassets.com
+.skypeassets.net
 .skypeforbusiness.com
 .staffhub.ms
 .svc.ms
