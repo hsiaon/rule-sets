@@ -40,7 +40,6 @@
 .google.ci
 .google.cl
 .google.cm
-.google.cn
 .google.co.ao
 .google.co.bw
 .google.co.ck
@@ -213,7 +212,6 @@
 .googleadservices.com
 .googleanalytics.com
 .googleapis-cn.com
-.googleapis.cn
 .googleapis.com
 .googleapps.com
 .googlearth.com
@@ -223,7 +221,6 @@
 .googlecapital.com
 .googlecert.net
 .googlechinawebmaster.com
-.googlecnapps.cn
 .googlecode.com
 .googlecommerce.com
 .googlecompare.co.uk
