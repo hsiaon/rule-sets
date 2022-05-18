@@ -12,6 +12,7 @@
 .clickserver.googleads.com
 .doubleclick.com
 .doubleclick.net
+.goog
 .google-analytics.com
 .google.ad
 .google.ae
