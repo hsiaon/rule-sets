@@ -1,0 +1,12 @@
+.digicert.com
+.entrust.net
+.geotrust.com
+.globalsign.com
+.globalsign.net
+.identrust.com
+.letsencrypt.org
+.omniroot.com
+.public-trust.com
+.symcb.com
+.verisign.com
+.verisign.net
