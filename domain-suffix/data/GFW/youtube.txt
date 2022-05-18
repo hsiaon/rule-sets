@@ -3,13 +3,11 @@
 .withyoutube.com
 .youtu.be
 .youtube-nocookie.com
-.youtube-ui.l.google.com
 .youtube.com
 .youtube.com.hk
 .youtube.com.tw
 .youtube.hk
 .youtubeeducation.com
-.youtubeembeddedplayer.googleapis.com
 .youtubefanfest.com
 .youtubegaming.com
 .youtubego.com
