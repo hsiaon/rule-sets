@@ -4,4 +4,6 @@ fb.com
 fb.me
 fbcdn.com
 fbcdn.net
+fbsbx.com
 fecebook.net
+giphy.com

@@ -11,6 +11,7 @@ adwordsexpress.com
 app-measurement.com
 doubleclick.com
 doubleclick.net
+g.com
 goog
 google-analytics.com
 google.com
