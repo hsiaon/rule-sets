@@ -7,7 +7,6 @@ cmb-leasing.com
 cmbchina.biz
 cmbchina.cn
 cmbchina.com
-cmbi.com.hk
 cmbimg.cn
 cmbimg.com
 cmbt.cn
@@ -18,5 +17,4 @@ cmf.biz
 cmf.ltd
 cmfchina.com
 cmfunds.cn
-cmschina.com
 test-cignacmb.com

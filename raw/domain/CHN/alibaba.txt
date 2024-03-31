@@ -24,11 +24,13 @@ alimama.com
 alimebot.com
 alimei.com
 alios.cn
+alipan.com
 alipay.cn
 alipay.com
 alipay.com.cn
 alipaydns.com
 alipayobjects.com
+alipayplus.com
 aliplus.com
 aliresearch.com
 alisoft.com
@@ -39,8 +41,8 @@ aliunicorn.com
 aliway.com
 aliwork.com
 alixiaomi.com
-aliyuncs.com
 aliyundrive.com
+aliyundrive.net
 alizhaopin.com
 alyms.cn
 amap.com
@@ -79,6 +81,7 @@ freshhema.com
 fund123.cn
 gaode.com
 gongyi.xin
+goofish.com
 hemamax.com
 hemaos.com
 hemashare.cn
@@ -101,6 +104,7 @@ mei.com
 miaostreet.com
 mshare.cc
 nic.xin
+npmmirror.com
 pailitao.com
 philanthropy.xin
 phpwind.com
@@ -130,9 +134,6 @@ tmalltv.com
 tmjl.ai
 ttpod.com
 wandoujia.com
-xiami.com
-xiami.fm
-xiami.net
 xin.xin
 xinlingshou.cn
 yowhale.com
