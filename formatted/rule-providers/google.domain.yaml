@@ -3,6 +3,8 @@ payload:
   - '+.app-measurement.com'
   - '+.crashlytics.com'
   - '+.doubleclick.net'
+  - '+.g.co'
+  - '+.g.com'
   - '+.goog'
   - '+.google-analytics.com'
   - '+.google.ad'
